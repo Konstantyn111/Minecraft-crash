@@ -21,21 +21,21 @@ Java 8是Java语言的里程碑版本，它通过引入流式处理、lambda表�
 1. 双击安装程序启动向导。
 
 2. 点击“Next”进入下一步。
-   ·![1](F:\code\Minecraft_crash\Minecraft-crash\Java-related\img\java\1.png)
+   ·![1](../img/java/1.png)
 
 3. **确保安装路径不包含中文字符**，建议使用默认路径或更改至无中文的可访问路径。
 
-   ![2](F:\code\Minecraft_crash\Minecraft-crash\Java-related\img\java\2.png)
+   ![2](../img/java/2.png)
 
 4. 点击“Install”开始安装。
 
-   ![3](F:\code\Minecraft_crash\Minecraft-crash\Java-related\img\java\3.png)
+   ![3](../img/java/3.png)
 
 ## 🔍 步骤3：验证Java 8安装
 
 1. 使用win+R打开运行窗口输入“cmd”,点击”确定“
 
-   ![4](F:\code\Minecraft_crash\Minecraft-crash\Java-related\img\java\4.png)
+   ![4](../img/java/4.png)
 
 2. 打开CMD，输入`java -version`检查安装。
 
