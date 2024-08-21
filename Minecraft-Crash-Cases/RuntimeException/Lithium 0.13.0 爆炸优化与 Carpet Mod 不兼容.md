@@ -62,7 +62,7 @@ Caused by: org.spongepowered.asm.mixin.injection.throwables.InjectionError: Crit
 ```
 ## 环境信息
 
-**操作系统**: [请填写操作系统的名称及版本号]
+**操作系统**: [忘填辣]
 **Minecraft版本/Java版本**: [Minecraft fabric 1.21/Java 21.0.1]
 **网络环境**: [无需联网]
 
