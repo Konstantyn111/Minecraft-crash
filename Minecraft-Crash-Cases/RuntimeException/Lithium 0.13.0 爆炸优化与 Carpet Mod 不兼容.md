@@ -4,7 +4,7 @@
 
 **错误标题**: **RuntimeException**
 
-**时间**: 2024-08-20 10:53
+**时间**: 2024-08-20 21:53
 
 ### 错误描述
 
@@ -87,7 +87,6 @@ Lithium 0.13.0 爆炸优化与 Carpet Mod 不兼容
 
 1. 通过在 config 文件夹的 lithium.properties 文件中添加以下行，手动禁用 lithium 的优化：```mixin.world.explosions.cache_exposure=false```
 
-## 联系信息
 
 **紧急程度**: [低]
 
