@@ -2,7 +2,7 @@
 
 ## 🚀 简介
 
-Java 8是Java语言的里程碑版本，它通过引入流式处理、lambda表达式等特性，极大提升了开发效率和代码质量。本教程将指导您在Windows操作系统上安装Java 8，并确保其与Minecraft 1.0至1.16版本兼容。
+Java 8是Java语言的里程碑版本.本教程将指导您在Windows操作系统上安装Java 8，并确保其与Minecraft 1.0至1.16版本兼容。
 
 ## 📋 前提条件
 
@@ -56,12 +56,16 @@ Java 8是Java语言的里程碑版本，它通过引入流式处理、lambda表�
 
 ### HMCL安装
 - **请勿将HMCL放置在中文路径或可能导致访问异常的路径**，例如C盘用户文件夹。
-- [插入HMCL图片]
-- 描述HMCL的安装和配置过程。
+
+- 1. 双击打开HMCL应用程序-左键单击下图中红色框选的位置，打开游戏管理界面![HMCL1](https://github.com/Konstantyn111/Minecraft-crash/blob/main/img/java/HMCL1.png)
+  2. 左键单击[游戏设置]-左键单击`☑️`[启用游戏特定设置(不影响其他游戏版本)]-左键单击[Java路径]右侧下拉菜单-在菜单选项中找到下载好的Java版本，左键单击`🔘`选择该版本![HMCL2](https://github.com/Konstantyn111/Minecraft-crash/blob/main/img/java/HMCL2.png)
+
+  > 如果需要替换Java的版本不在首页中可单击[版本列表]，选择要替换Java的版本点击进入游戏管理界面
 
 ### PCL安装
 - **请勿将PCL放置在中文路径或可能导致访问异常的路径**，例如C盘用户文件夹。
-- [插入PCL图片]
+- 1. 打开PCL2应用程序-左键单击下图中红色框选的位置，打开版本设置界面![PCL2-1](https://github.com/Konstantyn111/Minecraft-crash/blob/main/img/java/PCL2-1.png)
+  2. 单击左侧[设置] 进入设置界面-找到[启动选项]-[游戏Java]-单击右侧下拉框-手动选择相应的Java版本![PCL2-2](https://github.com/Konstantyn111/Minecraft-crash/blob/main/img/java/PCL2-2.png)
 - 描述PCL的安装和配置过程。
 
 ## 🎉 结语
